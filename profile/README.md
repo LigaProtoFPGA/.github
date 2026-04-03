@@ -15,18 +15,6 @@ Our goal is to work on real-world projects using FPGAs and build an open-source 
 
 ---
 
-### Repositories
-
-| Repository | Description |
-|------------|-------------|
-| [tutorials](https://github.com/LigaProtoFPGA/tutorials) | Step-by-step guides for VHDL, Verilog, and FPGA toolchains |
-| [examples](https://github.com/LigaProtoFPGA/examples) | Ready-to-run project examples for the Nexys boards |
-| [templates](https://github.com/LigaProtoFPGA/templates) | Standard project templates to get started quickly |
-| [docs](https://github.com/LigaProtoFPGA/docs) | General documentation, guides, and league resources |
-| [resources](https://github.com/LigaProtoFPGA/resources) | Datasheets, drivers, and open hardware references (Ethernet, displays, etc.) |
-
----
-
 ### Documentation & Resources
 
 * [Getting Started Guide](https://github.com/LigaProtoFPGA/docs/blob/main/getting-started.md)
@@ -34,6 +22,18 @@ Our goal is to work on real-world projects using FPGAs and build an open-source 
 * [Git & GitHub Guide](https://github.com/LigaProtoFPGA/docs/blob/main/git-guide.md)
 * [Style Guide & Standards](https://github.com/LigaProtoFPGA/docs/blob/main/style-guide.md)
 * [Infrastructure & Hardware](https://github.com/LigaProtoFPGA/docs/blob/main/infrastructure.md)
+
+---
+
+### Repositories
+
+| Repository | Description |
+|------------|-------------|
+| [tutorials](https://github.com/LigaProtoFPGA/tutorials) | Step-by-step guides for VHDL, Verilog, and FPGA toolchains |
+| [examples](https://github.com/LigaProtoFPGA/examples) | Ready-to-run project examples |
+| [templates](https://github.com/LigaProtoFPGA/templates) | Standard project templates to get started quickly |
+| [docs](https://github.com/LigaProtoFPGA/docs) | General documentation, guides, and league resources |
+| [resources](https://github.com/LigaProtoFPGA/resources) | Datasheets, drivers, and open hardware references (Ethernet, displays, etc.) |
 
 ---
 
