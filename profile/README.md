@@ -1,9 +1,9 @@
 # ProtoFPGA
 
-![UFSC](https://img.shields.io/badge/UFSC-Araranguá-blue)
+![UFSC](https://img.shields.io/badge/UFSC-Florianópolis-blue)
 ![Focus](https://img.shields.io/badge/Focus-FPGA%20Development-orange)
 
-**ProtoFPGA** is the academic league at **UFSC** dedicated to rapid prototyping of complex hardware. Mentored by professors **Ney** and **Rodrigo**, our focus is to bridge the gap between theory and real-world implementation through a collaborative learning ecosystem.
+**ProtoFPGA** is the academic league at **UFSC** dedicated to rapid prototyping of complex hardware. Mentored by professors **Ney** and **Rodrigo**, our focus is to turn theory into real hardware through a collaborative learning ecosystem.
 
 ---
 
@@ -16,10 +16,9 @@ Our goal is to work on real-world projects using FPGAs and build an open-source 
 ---
 
 ### Documentation & Resources
-If you are new here, please check our central documentation:
-
 * [Getting Started Guide](https://github.com/LigaProtoFPGA/docs/blob/main/getting-started.md)
 * [Software Setup](https://github.com/LigaProtoFPGA/docs/blob/main/software.md)
+* [Git & GitHub Guide](https://github.com/LigaProtoFPGA/docs/blob/main/git-guide.md)
 * [Style Guide & Standards](https://github.com/LigaProtoFPGA/docs/blob/main/style-guide.md)
 * [Infrastructure & Hardware](https://github.com/LigaProtoFPGA/docs/blob/main/infrastructure.md)
 
