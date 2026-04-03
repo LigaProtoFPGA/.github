@@ -1,6 +1,6 @@
 # ProtoFPGA
 
-![UFSC](https://img.shields.io/badge/UFSC-Florianópolis-blue)
+![UFSC](https://img.shields.io/badge/UFSC-Araranguá-blue)
 ![Focus](https://img.shields.io/badge/Focus-FPGA%20Development-orange)
 
 **ProtoFPGA** is the academic league at **UFSC** dedicated to rapid prototyping of complex hardware. Mentored by professors **Ney** and **Rodrigo**, our focus is to turn theory into real hardware through a collaborative learning ecosystem.
