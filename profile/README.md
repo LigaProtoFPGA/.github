@@ -3,7 +3,7 @@
 ![UFSC](https://img.shields.io/badge/UFSC-Araranguá-blue)
 ![Language](https://img.shields.io/badge/HDL-VHDL%20%7C%20Verilog-orange)
 
-**ProtoFPGA** is the FPGA league at **UFSC**, mentored by professors **Ney** and **Rodrigo**. We are in the early stages, but we have a big vision.
+**ProtoFPGA** is the UFSC academic league mentored by professors **Ney** and **Rodrigo**. Our focus is to turn theory into real hardware, creating a collaborative learning ecosystem.
 
 ---
 
