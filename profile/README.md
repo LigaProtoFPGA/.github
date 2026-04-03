@@ -1,17 +1,19 @@
-# Sobre a Liga
+# 🚀 ProtoFPGA League
 
-A ProtoFPGA é a liga de FPGA da UFSC, orientada pelos professores Ney e Rodrigo. Estamos no início, mas a ideia é grande.
+![UFSC](https://img.shields.io/badge/UFSC-Florianópolis-blue)
+![Language](https://img.shields.io/badge/HDL-VHDL%20%7C%20Verilog-orange)
 
----
-
-## 🎯 O que queremos fazer
-
-Trabalhar com projetos reais usando FPGA e construir um repositório aberto no GitHub com tutoriais de VHDL e Verilog — um material de qualidade, feito por quem está aprendendo, para quem quer aprender.
-
-**Não é necessário ter experiência prévia para entrar.**
+**ProtoFPGA** is the FPGA league at **UFSC**, mentored by professors **Ney** and **Rodrigo**. We are in the early stages, but we have a big vision.
 
 ---
 
-## 👥 Como entrar
+### 🎯 Our Mission
+Our goal is to work on real-world projects using FPGAs and build an open-source GitHub repository with **VHDL** and **Verilog** tutorials — high-quality material, created by learners, for learners.
 
-Se tiver interesse em fazer parte da liga, fale com a diretoria para entrar no grupo do WhatsApp e acompanhar as próximas definições.
+> [!IMPORTANT]
+> **No prior experience is required to join.**
+
+---
+
+### 👥 How to Join
+If you are interested in becoming a member, reach out to the **board** to join our WhatsApp group and stay updated on our upcoming meetings and projects.
