@@ -16,17 +16,9 @@ Our goal is to work on real-world projects using FPGAs and build an open-source 
 
 ---
 
-### Documentation & Resources
+### Getting Started
 
-- [Getting Started Guide](https://github.com/LigaProtoFPGA/docs/blob/main/getting_started.md)
-- [Software Setup](https://github.com/LigaProtoFPGA/docs/blob/main/setup/software.md)
-- [Vivado Setup](https://github.com/LigaProtoFPGA/docs/blob/main/setup/vivado.md)
-- [ISE Virtual Machine Setup](https://github.com/LigaProtoFPGA/docs/blob/main/setup/ise_vm.md)
-- [Git & GitHub Guide](https://github.com/LigaProtoFPGA/docs/blob/main/standards/git_guide.md)
-- [Style Guide & Standards](https://github.com/LigaProtoFPGA/docs/blob/main/standards/style_guide.md)
-- [Repository Map](https://github.com/LigaProtoFPGA/docs/blob/main/standards/repository_map.md)
-- [Reference: boards, cores and publications](https://github.com/LigaProtoFPGA/docs/blob/main/hardware/reference.md)
-- [Infrastructure & Hardware](https://github.com/LigaProtoFPGA/docs/blob/main/hardware/infrastructure.md)
+New here? Start with the [getting started guide](https://github.com/LigaProtoFPGA/docs/blob/main/getting_started.md).
 
 ---
 
@@ -38,7 +30,7 @@ Our goal is to work on real-world projects using FPGAs and build an open-source 
 | --- | --- |
 | [tutorials](https://github.com/LigaProtoFPGA/tutorials) | Step-by-step guides for VHDL, Verilog and the FPGA toolchains |
 | [courses](https://github.com/LigaProtoFPGA/courses) | Complete material from the courses the league runs |
-| [examples](https://github.com/LigaProtoFPGA/examples) | Working designs to clone and run, without accompanying explanation |
+| [study_material](https://github.com/LigaProtoFPGA/study_material) | Lecture slides and reference material provided by our mentors |
 
 **Reference**
 
@@ -49,7 +41,7 @@ Our goal is to work on real-world projects using FPGAs and build an open-source 
 **Projects**
 
 Each project has its own repository, prefixed `proj_`, owned by the team working on it.
-Active projects are listed in the [repository map](https://github.com/LigaProtoFPGA/docs/blob/main/standards/repository_map.md).
+Browse them in the [Repositories](https://github.com/orgs/LigaProtoFPGA/repositories) tab.
 
 ---
 
